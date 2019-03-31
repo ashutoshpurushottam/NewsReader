@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">NewsReader</string>
+    <!-- Settings -->
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_help">Help</string>
+    <string name="settings_about">About</string>
+    <!-- Menu tabs -->
+    <string name="world">World</string>
+    <string name="popular">Popular</string>
+    <string name="business">Business</string>
+    <string name="sports">Sports</string>
+    <!-- Action bar -->
+    <string name="search">Search</string>
+    <string name="menu">Menu</string>
+    <!-- Error messages -->
+    <string name="search_msg">Please enter some search term and select at least one checkbox.</string>
+    <string name="api_loading_error">Failed to download news from NYTimes API. Please try again later.</string>
+    <string name="api_no_result">No result was found for this search term.</string>
+    <!-- Notifications -->
+    <string name="channel_name">new_channel_1</string>
+    <string name="channel_description">desc</string>
+    <!-- Navigation drawer-->
+    <string name="navigation_drawer_world">World</string>
+    <string name="navigation_drawer_popular">Popular</string>
+    <string name="navigation_drawer_sports">Sports</string>
+    <string name="navigation_drawer_business">Business</string>
+
+    <string name="navigation_drawer_search">Search</string>
+    <string name="navigation_drawer_notifications">Notifications</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">desc</string>
+    <string name="option_sports">Sports</string>
+    <string name="option_travel">Travel</string>
+    <string name="option_entrepreneurs">Entrepreneurs</string>
+    <string name="option_business">Business</string>
+    <string name="option_arts">Arts</string>
+    <string name="search_term">Search term</string>
+    <string name="begin_date">Begin date</string>
+    <string name="end_date">End date</string>
+    <string name="option_politics">Politics</string>
+    <string name="btn_search">Search</string>
+    <string name="oldest_to_newest">Oldest to newest</string>
+    <string name="newest_to_oldest">Newest to oldest</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="categories">Categories</string>
+</resources>
+
