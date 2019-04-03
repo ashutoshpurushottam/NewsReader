@@ -14,7 +14,7 @@ jobs:
           key: "jars-{{ checksum \"build.gradle\" }}-{{ checksum  \"app/build.gradle\" }}"
       - 
         run: 
-          command: "sudo ./gradlew androidDependencies"
+          command: "./gradlew androidDependencies"
           name: "Download Dependencies"
           pre: 
             - "echo y | android update sdk --no-ui --all --filter \"platform-tools, tools\""
@@ -28,7 +28,7 @@ jobs:
             - ~/.gradle
       - 
         run: 
-          command: "sudo ./gradlew testDebug"
+          command: "./gradlew testDebug"
           name: "Run Tests"
       - 
         store_artifacts: 
