@@ -101,10 +101,4 @@ public class PopularViewModelTest {
         viewModel.getPopularNews().removeObserver(testObserver);
     }
 
-
-
-
-
-
-
 }

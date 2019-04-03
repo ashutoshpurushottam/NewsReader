@@ -11,214 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70218963-d761-436f-93c4-cae4894b89e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_contrib_3_1_0_alpha4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_alpha4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_alpha4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_alpha4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_1_0_alpha4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_alpha4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_apps_common_testing_accessibility_framework_accessibility_test_framework_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_2_18_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_support_2_18_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_10_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_runtime_10_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_threetenabp_threetenabp_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_timber_timber_4_7_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jraska_livedata_testing_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_2_9_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/base/BaseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/PopularViewModelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/TestUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_extensions_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_contrib_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_2_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_support_2_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_8_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_8_8_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_10_1_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_threetenabp_threetenabp_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_timber_timber_4_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewsReader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NewsReader.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/antho/newsreader/view/activities/MainActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/antho/newsreader/view/activities/MainActivityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/antho/newsreader/view/activities/notifications/NotificationsActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/antho/newsreader/view/activities/notifications/NotificationsActivityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/antho/newsreader/view/activities/search/SearchActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/antho/newsreader/view/activities/search/SearchActivityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/base/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/base/BaseActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/base/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/base/BaseFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/db/NewsApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/db/NewsApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/db/NewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/db/NewsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/AdapterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/AdapterFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/ZonedDateTimeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/ZonedDateTimeAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/news/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/news/News.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/news/NewsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/news/NewsList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/news/NewsThumbnail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/news/NewsThumbnail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/Popular.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/Popular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/PopularList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/PopularList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/PopularMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/PopularMedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/PopularThumbnail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/popular/PopularThumbnail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchHeadline.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchHeadline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchListResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchListResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchMultimedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/model/search/SearchMultimedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/WebViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/WebViewActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/GlobalNotificationBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/GlobalNotificationBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/NotificationsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/NotificationsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/handlers/BigTextIntentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/handlers/BigTextIntentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/handlers/NotificationJobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/handlers/NotificationJobService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/handlers/NotificationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/notifications/handlers/NotificationUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/SearchActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/SearchActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/SearchResultsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/SearchResultsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/adapter/SearchDiffCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/adapter/SearchDiffCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/adapter/SearchResultsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/adapter/SearchResultsAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/datepicker/DatePickerFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/activities/search/datepicker/DatePickerFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/BusinessFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/BusinessFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/PopularFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/PopularFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/SportsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/SportsFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/WorldFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/WorldFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/NewsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/NewsAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/NewsDiffCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/NewsDiffCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/PopularAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/PopularAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/PopularDiffCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/view/fragments/adapter/PopularDiffCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/NewsViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/NewsViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/PopularViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/PopularViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/SearchViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/SearchViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/factory/ViewModelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/factory/ViewModelFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_notifications.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_notifications.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_search_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/checkboxes_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/checkboxes_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_news.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_news.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/recyclerview_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/recyclerview_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/NewsViewModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/NewsViewModelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/SearchAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/SearchAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/ZonedDateTimeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/ZonedDateTimeAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNewsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNewsList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNewsSubList.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNewsSubList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularMediaThumbnail.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularMediaThumbnail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularThumbnail.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularThumbnail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/topstories/TopStoriesNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/topstories/TopStoriesNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/topstories/TopStoriesThumbnail.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/topstories/TopStoriesThumbnail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/NotificationsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/NotificationsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/PagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/PagerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/SearchActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/SearchActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/articlesearch/ArticleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/articlesearch/ArticleSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/articlesearch/ArticleSearchAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/articlesearch/ArticleSearchAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/mostpopular/MostPopular.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/mostpopular/MostPopular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/mostpopular/MostPopularAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/mostpopular/MostPopularAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/topstories/TopStories.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/topstories/TopStories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/topstories/TopStoriesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/topstories/TopStoriesAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/ArticleSearchViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/ArticleSearchViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/MostPopularViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/MostPopularViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/TopStoriesViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/TopStoriesViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/PopularViewModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/PopularViewModelTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -245,12 +45,13 @@
           <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -288,64 +89,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/PopularViewModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-              <folding>
-                <element signature="e#1137#1138#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/TestUtility.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1835#1836#0" expanded="true" />
-                <element signature="e#1886#1887#0" expanded="true" />
-                <element signature="e#1955#1956#0" expanded="true" />
-                <element signature="e#2006#2007#0" expanded="true" />
-                <element signature="e#2071#2072#0" expanded="true" />
-                <element signature="e#2122#2123#0" expanded="true" />
-                <element signature="e#2214#2215#0" expanded="true" />
-                <element signature="e#2265#2266#0" expanded="true" />
-                <element signature="e#2375#2376#0" expanded="true" />
-                <element signature="e#2426#2427#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/PopularViewModelTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="100" column="34" selection-start-line="100" selection-start-column="34" selection-end-line="100" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/NewsViewModelTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="100" selection-start-line="74" selection-end-line="100" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -2710,38 +2454,9 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="NewsReader" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="NewsReader" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="NewsReader" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="newsreader" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewsReader" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="newsreader" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="viewmodel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewsReader" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="viewmodel" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
             <path>
               <item name="NewsReader" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -2751,6 +2466,7 @@
         </subPane>
       </pane>
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2993,7 +2709,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="23" width="1262" height="758" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33032787" />
@@ -3071,14 +2786,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/recyclerview_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -3260,13 +2968,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/base/BaseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/base/BaseApplication.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -3332,16 +3034,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/livedata/TestLifecycleTest.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/livedata/TestLifecycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/livedata/TestLifecycle.java" />
     <entry file="file://$PROJECT_DIR$/versions.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2624">
@@ -3365,106 +3058,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/livedata/TestObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3967">
-          <caret line="281" column="44" selection-start-line="281" selection-start-column="38" selection-end-line="281" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-            <element signature="e#1434#1435#0" expanded="true" />
-            <element signature="e#8591#8592#0" expanded="true" />
-            <element signature="e#8641#8642#0" expanded="true" />
-            <element signature="e#9024#9025#0" expanded="true" />
-            <element signature="e#9067#9068#0" expanded="true" />
-            <element signature="e#9625#9626#0" expanded="true" />
-            <element signature="e#9691#9692#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/livedata/TestLifecycleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/livedata/TestObserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/livedata/TestObserver.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/livedata/TestLifecycleTest.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/livedata/TestObserverTest.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/NewsViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
-          <folding>
-            <element signature="e#1231#1232#0" expanded="true" />
-            <element signature="e#1262#1263#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1360#1361#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#1381#1382#0" expanded="true" />
-            <element signature="e#1455#1456#0" expanded="true" />
-            <element signature="e#1485#1486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/TestUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1835#1836#0" expanded="true" />
-            <element signature="e#1886#1887#0" expanded="true" />
-            <element signature="e#1955#1956#0" expanded="true" />
-            <element signature="e#2006#2007#0" expanded="true" />
-            <element signature="e#2071#2072#0" expanded="true" />
-            <element signature="e#2122#2123#0" expanded="true" />
-            <element signature="e#2214#2215#0" expanded="true" />
-            <element signature="e#2265#2266#0" expanded="true" />
-            <element signature="e#2375#2376#0" expanded="true" />
-            <element signature="e#2426#2427#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/antho/newsreader/viewmodel/PopularViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-          <folding>
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="972">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/TestUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/PopularViewModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/NewsViewModelTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="562">
-          <caret line="100" selection-start-line="74" selection-end-line="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/antho/newsreader/viewmodel/PopularViewModelTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="100" column="34" selection-start-line="100" selection-start-column="34" selection-end-line="100" selection-end-column="34" />
+          <caret line="101" selection-start-line="100" selection-end-line="101" selection-end-column="1" />
         </state>
       </provider>
     </entry>
