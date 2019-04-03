@@ -10,6 +10,10 @@ jobs:
     steps: 
       - checkout
       - 
+        run: 
+          command: "rm local.properties"
+          name: "remove local settings"
+      - 
         restore_cache: 
           key: "jars-{{ checksum \"build.gradle\" }}-{{ checksum  \"app/build.gradle\" }}"
       - 
