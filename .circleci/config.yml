@@ -5,7 +5,6 @@ jobs:
       - 
         image: "circleci/android:api-28-node8-alpha"
     environment: 
-      ANDROID_HOME: /usr/local/android-sdk-linux
       JVM_OPTS: "-Xmx3200m"
     steps: 
       - checkout
