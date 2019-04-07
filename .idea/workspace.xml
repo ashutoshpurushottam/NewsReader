@@ -12,13 +12,79 @@
   <component name="ChangeListManager">
     <list default="true" id="70218963-d761-436f-93c4-cae4894b89e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/db/ArticleSearchApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/db/MostPopularApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/db/TopStoriesApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/AdapterFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/SearchAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/ZonedDateTimeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNewsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/articlesearch/ArticleSearchNewsSubList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularMediaThumbnail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularNews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularNewsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/mostpopular/MostPopularThumbnail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/topstories/TopStoriesNews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/topstories/TopStoriesNewsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/model/topstories/TopStoriesThumbnail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/NotificationsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/PagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/SearchActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/articlesearch/ArticleSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/articlesearch/ArticleSearchAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/mostpopular/MostPopular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/mostpopular/MostPopularAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/topstories/TopStories.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/view/topstories/TopStoriesAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/ArticleSearchViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/MostPopularViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/java/com/antho/newsreader/viewmodel/TopStoriesViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-hdpi/ic_notifications.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-hdpi/ic_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-mdpi/ic_notifications.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-mdpi/ic_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-xhdpi/ic_notifications.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-xhdpi/ic_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-xxhdpi/ic_notifications.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable-xxhdpi/ic_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/activity_notifications.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/activity_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/checkboxes_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/content_notifications.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/content_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/fragment_article_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/fragment_most_popular.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/fragment_top_stories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/nav_header_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/recyclerview_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/toolbar_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/layout/webview_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/menu/menu_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/res/values/styles.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +146,7 @@
           <entry key="java" value="2884" />
           <entry key="kt" value="88" />
           <entry key="properties" value="17" />
-          <entry key="txt" value="25" />
+          <entry key="txt" value="53" />
           <entry key="xml" value="28" />
           <entry key="yml" value="92" />
         </counts>
@@ -90,7 +156,7 @@
           <entry key="Groovy" value="39" />
           <entry key="JAVA" value="2884" />
           <entry key="Kotlin" value="88" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="PLAIN_TEXT" value="53" />
           <entry key="Properties" value="17" />
           <entry key="XML" value="28" />
           <entry key="YAML" value="92" />
@@ -121,15 +187,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state relative-caret-position="241">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp/java/com/antho/newsreader/db/ArticleSearchApi.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -2808,7 +2869,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554647078354</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change path of store result">
+      <created>1554647454828</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554647454828</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2848,7 +2916,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33032787" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33032787" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -2860,7 +2928,7 @@
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32882884" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.26576576" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.26576576" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32882884" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.32882884" />
@@ -2906,7 +2974,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change config yaml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="change config yaml file" />
+    <MESSAGE value="change path of store result" />
+    <option name="LAST_COMMIT_MESSAGE" value="change path of store result" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3243,8 +3312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="241">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
         </state>
       </provider>
     </entry>
