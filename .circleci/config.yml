@@ -44,6 +44,6 @@ jobs:
           path: app/build/reports
       - 
         store_test_results: 
-          path: app/build/test-reports
+          path: ~/code/test-results.xml
     working_directory: ~/code
 version: 2
