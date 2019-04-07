@@ -45,6 +45,5 @@ jobs:
       - 
         store_test_results: 
           path: test-results
-          destination: test
-    working_directory: ~/code
+    working_directory: ~/
 version: 2
